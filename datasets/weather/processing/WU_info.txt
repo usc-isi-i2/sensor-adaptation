@@ -1,0 +1,27 @@
+PWS
+
+Around Santa Monica
+KCASANTA387      A
+KCASANTA499     B
+KCASANTA444     C
+KCASANTA691     D
+KCASANTA700     E
+KCASANTA574  	F
+KCASANTA194     L
+
+Around Hollywood
+KCALOSAN58    G
+KCALOSAN297   H
+
+Around SF
+KCASANFR58     I
+KCASANFR131    J
+KCASANFR327    K
+
+
+Keys
+efb48b6bab14f3a8
+
+newly registered
+47c3136003b62644
+6be3f5402dca4df7

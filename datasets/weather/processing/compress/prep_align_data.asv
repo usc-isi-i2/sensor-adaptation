@@ -1,0 +1,49 @@
+load('PWS_KCASANTA444_201502.mat_comp.mat');
+
+sel_idx = [1,3,5,6,8];
+
+len = length(dates);
+feaA = fea(sel_idx,:);
+timeA = cell(1,len);
+for i = 1:len
+    t = dates{i};
+    timeA{i} = [t.year,t.mon,t.mday,' ',t.hour,':',t.min];
+end
+
+load('PWS_KCASANTA444_201503.mat_comp.mat');
+
+len = length(dates);
+feaA = [feaA,fea(sel_idx,:)];
+timeA_add = cell(1,len);
+for i = 1:len
+    t = dates{i};
+    timeA_add{i} = [t.year,t.mon,t.mday,' ',t.hour,':',t.min];
+end
+timeA = [timeA, timeA_add];
+
+load('PWS_KCASANTA194_201502.mat_comp.mat');
+
+len = length(dates);
+feaB = fea(sel_idx,:);
+timeB = cell(1,len);
+for i = 1:len
+    t = dates{i};
+    timeB{i} = [t.year,t.mon,t.mday,' ',t.hour,':',t.min];
+end
+
+load('PWS_KCASANTA194_201503.mat_comp.mat');
+
+len = length(dates);
+feaB = [feaB,fea(sel_idx,:)];
+timeB_add = cell(1,len);
+for i = 1:len
+    t = dates{i};
+    timeB_add{i} = [t.year,t.mon,t.mday,' ',t.hour,':',t.min];
+end
+timeB = [timeB, timeB_add];
+
+% write to files
+fileID = fopen('station_A.txt', 'w');
+for i = 1:length(timeA)
+    fprintf(fileID, '%s\t', time
+end

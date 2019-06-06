@@ -1,0 +1,1650 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "history": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "September 1, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "01",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 1, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "01",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "September 1, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "01",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 1, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "01",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"meantempm":"", "meantempi":"","meandewptm":"", "meandewpti":"","meanwindspdm":"", "meanwindspdi":"","meanwdire":"","meanwdird":"","humidity":"","maxtempm":"", "maxtempi":"","mintempm":"", "mintempi":"","maxhumidity":"","minhumidity":"","maxdewptm":"", "maxdewpti":"","mindewptm":"", "mindewpti":"","maxpressurem":"", "maxpressurei":"","minpressurem":"", "minpressurei":"","maxwspdm":"", "maxwspdi":"","precipm":"", "precipi":"" }
+		]
+	}
+}
+
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "history": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "September 2, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "02",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 2, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "02",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "September 2, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "02",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 2, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "02",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"meantempm":"", "meantempi":"","meandewptm":"", "meandewpti":"","meanwindspdm":"", "meanwindspdi":"","meanwdire":"","meanwdird":"","humidity":"","maxtempm":"", "maxtempi":"","mintempm":"", "mintempi":"","maxhumidity":"","minhumidity":"","maxdewptm":"", "maxdewpti":"","mindewptm":"", "mindewpti":"","maxpressurem":"", "maxpressurei":"","minpressurem":"", "minpressurei":"","maxwspdm":"", "maxwspdi":"","precipm":"", "precipi":"" }
+		]
+	}
+}
+
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "history": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "September 3, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "03",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 3, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "03",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "September 3, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "03",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 3, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "03",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"meantempm":"", "meantempi":"","meandewptm":"", "meandewpti":"","meanwindspdm":"", "meanwindspdi":"","meanwdire":"","meanwdird":"","humidity":"","maxtempm":"", "maxtempi":"","mintempm":"", "mintempi":"","maxhumidity":"","minhumidity":"","maxdewptm":"", "maxdewpti":"","mindewptm":"", "mindewpti":"","maxpressurem":"", "maxpressurei":"","minpressurem":"", "minpressurei":"","maxwspdm":"", "maxwspdi":"","precipm":"", "precipi":"" }
+		]
+	}
+}
+
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "history": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "September 4, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "04",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 4, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "04",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "September 4, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "04",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 4, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "04",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"meantempm":"", "meantempi":"","meandewptm":"", "meandewpti":"","meanwindspdm":"", "meanwindspdi":"","meanwdire":"","meanwdird":"","humidity":"","maxtempm":"", "maxtempi":"","mintempm":"", "mintempi":"","maxhumidity":"","minhumidity":"","maxdewptm":"", "maxdewpti":"","mindewptm":"", "mindewpti":"","maxpressurem":"", "maxpressurei":"","minpressurem":"", "minpressurei":"","maxwspdm":"", "maxwspdi":"","precipm":"", "precipi":"" }
+		]
+	}
+}
+
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "history": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "September 5, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "05",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 5, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "05",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "September 5, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "05",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 5, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "05",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"meantempm":"", "meantempi":"","meandewptm":"", "meandewpti":"","meanwindspdm":"", "meanwindspdi":"","meanwdire":"","meanwdird":"","humidity":"","maxtempm":"", "maxtempi":"","mintempm":"", "mintempi":"","maxhumidity":"","minhumidity":"","maxdewptm":"", "maxdewpti":"","mindewptm":"", "mindewpti":"","maxpressurem":"", "maxpressurei":"","minpressurem":"", "minpressurei":"","maxwspdm":"", "maxwspdi":"","precipm":"", "precipi":"" }
+		]
+	}
+}
+
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "history": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "September 6, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "06",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 6, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "06",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "September 6, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "06",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 6, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "06",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"meantempm":"", "meantempi":"","meandewptm":"", "meandewpti":"","meanwindspdm":"", "meanwindspdi":"","meanwdire":"","meanwdird":"","humidity":"","maxtempm":"", "maxtempi":"","mintempm":"", "mintempi":"","maxhumidity":"","minhumidity":"","maxdewptm":"", "maxdewpti":"","mindewptm":"", "mindewpti":"","maxpressurem":"", "maxpressurei":"","minpressurem":"", "minpressurei":"","maxwspdm":"", "maxwspdi":"","precipm":"", "precipi":"" }
+		]
+	}
+}
+
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "history": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "September 7, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "07",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 7, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "07",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "September 7, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "07",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 7, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "07",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"meantempm":"", "meantempi":"","meandewptm":"", "meandewpti":"","meanwindspdm":"", "meanwindspdi":"","meanwdire":"","meanwdird":"","humidity":"","maxtempm":"", "maxtempi":"","mintempm":"", "mintempi":"","maxhumidity":"","minhumidity":"","maxdewptm":"", "maxdewpti":"","mindewptm":"", "mindewpti":"","maxpressurem":"", "maxpressurei":"","minpressurem":"", "minpressurei":"","maxwspdm":"", "maxwspdi":"","precipm":"", "precipi":"" }
+		]
+	}
+}
+
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "history": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "September 8, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "08",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 8, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "08",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "September 8, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "08",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 8, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "08",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"meantempm":"", "meantempi":"","meandewptm":"", "meandewpti":"","meanwindspdm":"", "meanwindspdi":"","meanwdire":"","meanwdird":"","humidity":"","maxtempm":"", "maxtempi":"","mintempm":"", "mintempi":"","maxhumidity":"","minhumidity":"","maxdewptm":"", "maxdewpti":"","mindewptm":"", "mindewpti":"","maxpressurem":"", "maxpressurei":"","minpressurem":"", "minpressurei":"","maxwspdm":"", "maxwspdi":"","precipm":"", "precipi":"" }
+		]
+	}
+}
+
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "history": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "September 9, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "09",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 9, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "09",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "September 9, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "09",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 9, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "09",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"meantempm":"", "meantempi":"","meandewptm":"", "meandewpti":"","meanwindspdm":"", "meanwindspdi":"","meanwdire":"","meanwdird":"","humidity":"","maxtempm":"", "maxtempi":"","mintempm":"", "mintempi":"","maxhumidity":"","minhumidity":"","maxdewptm":"", "maxdewpti":"","mindewptm":"", "mindewpti":"","maxpressurem":"", "maxpressurei":"","minpressurem":"", "minpressurei":"","maxwspdm":"", "maxwspdi":"","precipm":"", "precipi":"" }
+		]
+	}
+}
+
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "history": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "September 10, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "10",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 10, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "10",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "September 10, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "10",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 10, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "10",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"meantempm":"", "meantempi":"","meandewptm":"", "meandewpti":"","meanwindspdm":"", "meanwindspdi":"","meanwdire":"","meanwdird":"","humidity":"","maxtempm":"", "maxtempi":"","mintempm":"", "mintempi":"","maxhumidity":"","minhumidity":"","maxdewptm":"", "maxdewpti":"","mindewptm":"", "mindewpti":"","maxpressurem":"", "maxpressurei":"","minpressurem":"", "minpressurei":"","maxwspdm":"", "maxwspdi":"","precipm":"", "precipi":"" }
+		]
+	}
+}
+
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "history": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "September 11, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "11",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 11, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "11",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "September 11, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "11",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 11, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "11",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"meantempm":"", "meantempi":"","meandewptm":"", "meandewpti":"","meanwindspdm":"", "meanwindspdi":"","meanwdire":"","meanwdird":"","humidity":"","maxtempm":"", "maxtempi":"","mintempm":"", "mintempi":"","maxhumidity":"","minhumidity":"","maxdewptm":"", "maxdewpti":"","mindewptm":"", "mindewpti":"","maxpressurem":"", "maxpressurei":"","minpressurem":"", "minpressurei":"","maxwspdm":"", "maxwspdi":"","precipm":"", "precipi":"" }
+		]
+	}
+}
+
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "history": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "September 12, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "12",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 12, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "12",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "September 12, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "12",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 12, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "12",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"meantempm":"", "meantempi":"","meandewptm":"", "meandewpti":"","meanwindspdm":"", "meanwindspdi":"","meanwdire":"","meanwdird":"","humidity":"","maxtempm":"", "maxtempi":"","mintempm":"", "mintempi":"","maxhumidity":"","minhumidity":"","maxdewptm":"", "maxdewpti":"","mindewptm":"", "mindewpti":"","maxpressurem":"", "maxpressurei":"","minpressurem":"", "minpressurei":"","maxwspdm":"", "maxwspdi":"","precipm":"", "precipi":"" }
+		]
+	}
+}
+
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "history": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "September 13, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "13",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 13, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "13",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "September 13, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "13",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 13, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "13",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"meantempm":"", "meantempi":"","meandewptm":"", "meandewpti":"","meanwindspdm":"", "meanwindspdi":"","meanwdire":"","meanwdird":"","humidity":"","maxtempm":"", "maxtempi":"","mintempm":"", "mintempi":"","maxhumidity":"","minhumidity":"","maxdewptm":"", "maxdewpti":"","mindewptm":"", "mindewpti":"","maxpressurem":"", "maxpressurei":"","minpressurem":"", "minpressurei":"","maxwspdm":"", "maxwspdi":"","precipm":"", "precipi":"" }
+		]
+	}
+}
+
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "history": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "September 14, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "14",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 14, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "14",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "September 14, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "14",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 14, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "14",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"meantempm":"", "meantempi":"","meandewptm":"", "meandewpti":"","meanwindspdm":"", "meanwindspdi":"","meanwdire":"","meanwdird":"","humidity":"","maxtempm":"", "maxtempi":"","mintempm":"", "mintempi":"","maxhumidity":"","minhumidity":"","maxdewptm":"", "maxdewpti":"","mindewptm":"", "mindewpti":"","maxpressurem":"", "maxpressurei":"","minpressurem":"", "minpressurei":"","maxwspdm":"", "maxwspdi":"","precipm":"", "precipi":"" }
+		]
+	}
+}
+
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "history": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "September 15, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "15",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 15, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "15",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "September 15, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "15",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 15, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "15",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"meantempm":"", "meantempi":"","meandewptm":"", "meandewpti":"","meanwindspdm":"", "meanwindspdi":"","meanwdire":"","meanwdird":"","humidity":"","maxtempm":"", "maxtempi":"","mintempm":"", "mintempi":"","maxhumidity":"","minhumidity":"","maxdewptm":"", "maxdewpti":"","mindewptm":"", "mindewpti":"","maxpressurem":"", "maxpressurei":"","minpressurem":"", "minpressurei":"","maxwspdm":"", "maxwspdi":"","precipm":"", "precipi":"" }
+		]
+	}
+}
+
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "history": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "September 16, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "16",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 16, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "16",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "September 16, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "16",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 16, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "16",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"meantempm":"", "meantempi":"","meandewptm":"", "meandewpti":"","meanwindspdm":"", "meanwindspdi":"","meanwdire":"","meanwdird":"","humidity":"","maxtempm":"", "maxtempi":"","mintempm":"", "mintempi":"","maxhumidity":"","minhumidity":"","maxdewptm":"", "maxdewpti":"","mindewptm":"", "mindewpti":"","maxpressurem":"", "maxpressurei":"","minpressurem":"", "minpressurei":"","maxwspdm":"", "maxwspdi":"","precipm":"", "precipi":"" }
+		]
+	}
+}
+
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "history": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "September 17, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "17",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 17, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "17",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "September 17, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "17",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 17, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "17",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"meantempm":"", "meantempi":"","meandewptm":"", "meandewpti":"","meanwindspdm":"", "meanwindspdi":"","meanwdire":"","meanwdird":"","humidity":"","maxtempm":"", "maxtempi":"","mintempm":"", "mintempi":"","maxhumidity":"","minhumidity":"","maxdewptm":"", "maxdewpti":"","mindewptm":"", "mindewpti":"","maxpressurem":"", "maxpressurei":"","minpressurem":"", "minpressurei":"","maxwspdm":"", "maxwspdi":"","precipm":"", "precipi":"" }
+		]
+	}
+}
+
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "history": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "September 18, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "18",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 18, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "18",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "September 18, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "18",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 18, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "18",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"meantempm":"", "meantempi":"","meandewptm":"", "meandewpti":"","meanwindspdm":"", "meanwindspdi":"","meanwdire":"","meanwdird":"","humidity":"","maxtempm":"", "maxtempi":"","mintempm":"", "mintempi":"","maxhumidity":"","minhumidity":"","maxdewptm":"", "maxdewpti":"","mindewptm":"", "mindewpti":"","maxpressurem":"", "maxpressurei":"","minpressurem":"", "minpressurei":"","maxwspdm":"", "maxwspdi":"","precipm":"", "precipi":"" }
+		]
+	}
+}
+
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "history": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "September 19, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "19",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 19, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "19",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "September 19, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "19",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 19, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "19",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"meantempm":"", "meantempi":"","meandewptm":"", "meandewpti":"","meanwindspdm":"", "meanwindspdi":"","meanwdire":"","meanwdird":"","humidity":"","maxtempm":"", "maxtempi":"","mintempm":"", "mintempi":"","maxhumidity":"","minhumidity":"","maxdewptm":"", "maxdewpti":"","mindewptm":"", "mindewpti":"","maxpressurem":"", "maxpressurei":"","minpressurem":"", "minpressurei":"","maxwspdm":"", "maxwspdi":"","precipm":"", "precipi":"" }
+		]
+	}
+}
+
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "history": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "September 20, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "20",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 20, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "20",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "September 20, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "20",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 20, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "20",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"meantempm":"", "meantempi":"","meandewptm":"", "meandewpti":"","meanwindspdm":"", "meanwindspdi":"","meanwdire":"","meanwdird":"","humidity":"","maxtempm":"", "maxtempi":"","mintempm":"", "mintempi":"","maxhumidity":"","minhumidity":"","maxdewptm":"", "maxdewpti":"","mindewptm":"", "mindewpti":"","maxpressurem":"", "maxpressurei":"","minpressurem":"", "minpressurei":"","maxwspdm":"", "maxwspdi":"","precipm":"", "precipi":"" }
+		]
+	}
+}
+
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "history": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "September 21, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "21",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 21, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "21",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "September 21, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "21",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 21, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "21",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"meantempm":"", "meantempi":"","meandewptm":"", "meandewpti":"","meanwindspdm":"", "meanwindspdi":"","meanwdire":"","meanwdird":"","humidity":"","maxtempm":"", "maxtempi":"","mintempm":"", "mintempi":"","maxhumidity":"","minhumidity":"","maxdewptm":"", "maxdewpti":"","mindewptm":"", "mindewpti":"","maxpressurem":"", "maxpressurei":"","minpressurem":"", "minpressurei":"","maxwspdm":"", "maxwspdi":"","precipm":"", "precipi":"" }
+		]
+	}
+}
+
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "history": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "September 22, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "22",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 22, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "22",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "September 22, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "22",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 22, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "22",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"meantempm":"", "meantempi":"","meandewptm":"", "meandewpti":"","meanwindspdm":"", "meanwindspdi":"","meanwdire":"","meanwdird":"","humidity":"","maxtempm":"", "maxtempi":"","mintempm":"", "mintempi":"","maxhumidity":"","minhumidity":"","maxdewptm":"", "maxdewpti":"","mindewptm":"", "mindewpti":"","maxpressurem":"", "maxpressurei":"","minpressurem":"", "minpressurei":"","maxwspdm":"", "maxwspdi":"","precipm":"", "precipi":"" }
+		]
+	}
+}
+
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "history": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "September 23, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "23",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 23, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "23",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "September 23, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "23",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 23, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "23",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"meantempm":"", "meantempi":"","meandewptm":"", "meandewpti":"","meanwindspdm":"", "meanwindspdi":"","meanwdire":"","meanwdird":"","humidity":"","maxtempm":"", "maxtempi":"","mintempm":"", "mintempi":"","maxhumidity":"","minhumidity":"","maxdewptm":"", "maxdewpti":"","mindewptm":"", "mindewpti":"","maxpressurem":"", "maxpressurei":"","minpressurem":"", "minpressurei":"","maxwspdm":"", "maxwspdi":"","precipm":"", "precipi":"" }
+		]
+	}
+}
+
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "history": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "September 24, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "24",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 24, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "24",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "September 24, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "24",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 24, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "24",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"meantempm":"", "meantempi":"","meandewptm":"", "meandewpti":"","meanwindspdm":"", "meanwindspdi":"","meanwdire":"","meanwdird":"","humidity":"","maxtempm":"", "maxtempi":"","mintempm":"", "mintempi":"","maxhumidity":"","minhumidity":"","maxdewptm":"", "maxdewpti":"","mindewptm":"", "mindewpti":"","maxpressurem":"", "maxpressurei":"","minpressurem":"", "minpressurei":"","maxwspdm":"", "maxwspdi":"","precipm":"", "precipi":"" }
+		]
+	}
+}
+
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "history": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "September 25, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "25",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 25, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "25",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "September 25, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "25",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 25, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "25",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"meantempm":"", "meantempi":"","meandewptm":"", "meandewpti":"","meanwindspdm":"", "meanwindspdi":"","meanwdire":"","meanwdird":"","humidity":"","maxtempm":"", "maxtempi":"","mintempm":"", "mintempi":"","maxhumidity":"","minhumidity":"","maxdewptm":"", "maxdewpti":"","mindewptm":"", "mindewpti":"","maxpressurem":"", "maxpressurei":"","minpressurem":"", "minpressurei":"","maxwspdm":"", "maxwspdi":"","precipm":"", "precipi":"" }
+		]
+	}
+}
+
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "history": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "September 26, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "26",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 26, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "26",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "September 26, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "26",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 26, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "26",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"meantempm":"", "meantempi":"","meandewptm":"", "meandewpti":"","meanwindspdm":"", "meanwindspdi":"","meanwdire":"","meanwdird":"","humidity":"","maxtempm":"", "maxtempi":"","mintempm":"", "mintempi":"","maxhumidity":"","minhumidity":"","maxdewptm":"", "maxdewpti":"","mindewptm":"", "mindewpti":"","maxpressurem":"", "maxpressurei":"","minpressurem":"", "minpressurei":"","maxwspdm":"", "maxwspdi":"","precipm":"", "precipi":"" }
+		]
+	}
+}
+
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "history": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "September 27, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "27",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 27, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "27",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "September 27, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "27",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 27, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "27",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"meantempm":"", "meantempi":"","meandewptm":"", "meandewpti":"","meanwindspdm":"", "meanwindspdi":"","meanwdire":"","meanwdird":"","humidity":"","maxtempm":"", "maxtempi":"","mintempm":"", "mintempi":"","maxhumidity":"","minhumidity":"","maxdewptm":"", "maxdewpti":"","mindewptm":"", "mindewpti":"","maxpressurem":"", "maxpressurei":"","minpressurem":"", "minpressurei":"","maxwspdm":"", "maxwspdi":"","precipm":"", "precipi":"" }
+		]
+	}
+}
+
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "history": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "September 28, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "28",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 28, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "28",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "September 28, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "28",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 28, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "28",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"meantempm":"", "meantempi":"","meandewptm":"", "meandewpti":"","meanwindspdm":"", "meanwindspdi":"","meanwdire":"","meanwdird":"","humidity":"","maxtempm":"", "maxtempi":"","mintempm":"", "mintempi":"","maxhumidity":"","minhumidity":"","maxdewptm":"", "maxdewpti":"","mindewptm":"", "mindewpti":"","maxpressurem":"", "maxpressurei":"","minpressurem":"", "minpressurei":"","maxwspdm":"", "maxwspdi":"","precipm":"", "precipi":"" }
+		]
+	}
+}
+
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "history": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "September 29, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "29",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 29, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "29",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "September 29, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "29",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 29, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "29",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"meantempm":"", "meantempi":"","meandewptm":"", "meandewpti":"","meanwindspdm":"", "meanwindspdi":"","meanwdire":"","meanwdird":"","humidity":"","maxtempm":"", "maxtempi":"","mintempm":"", "mintempi":"","maxhumidity":"","minhumidity":"","maxdewptm":"", "maxdewpti":"","mindewptm":"", "mindewpti":"","maxpressurem":"", "maxpressurei":"","minpressurem":"", "minpressurei":"","maxwspdm":"", "maxwspdi":"","precipm":"", "precipi":"" }
+		]
+	}
+}
+
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "history": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "September 30, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "30",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 30, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "30",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "September 30, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "30",
+		"hour": "00",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "September 30, 2015",
+		"year": "2015",
+		"mon": "09",
+		"mday": "30",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"meantempm":"", "meantempi":"","meandewptm":"", "meandewpti":"","meanwindspdm":"", "meanwindspdi":"","meanwdire":"","meanwdird":"","humidity":"","maxtempm":"", "maxtempi":"","mintempm":"", "mintempi":"","maxhumidity":"","minhumidity":"","maxdewptm":"", "maxdewpti":"","mindewptm":"", "mindewpti":"","maxpressurem":"", "maxpressurei":"","minpressurem":"", "minpressurei":"","maxwspdm":"", "maxwspdi":"","precipm":"", "precipi":"" }
+		]
+	}
+}
+

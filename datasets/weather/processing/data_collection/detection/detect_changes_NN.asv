@@ -1,0 +1,42 @@
+function detect_changes_NN(input_data, col_id, row_id)
+
+% col_id is the target sensor
+% 1:row_id-1 is the training period
+
+BAD_VALUE = -99;
+
+data = input_data(:,1:end-1);
+label = input_data(row_id:end,end);
+
+
+%% build a model on the training period
+train_idx = 1:row_id-1;
+train_x = data(train_idx, col_id);
+
+% remove bad rows on the target sensor
+rmv_idx = find( train_x < BAD_VALUE );
+train_x(rmv_idx) = [];
+
+test_x = data( row_id:end, col_id);
+
+% remove bad rows on the target sensor on the testing data
+rmv_idx2 = find( test_x < BAD_VALUE );
+test_x(rmv_idx2) = [];
+label(rmv_idx2) = [];
+
+%% nearest neighbor with length T
+T = 5;
+N_train = size(train_x,1);
+train_X = zeros( N_train-T+1, T );
+for t = 1:T
+    train_X(:,t) = train_x(t:N_train-T+t);
+end
+
+N_test = size(test_x,1);
+test_X = zeros( N_test-T+1, T );
+for t = 1:T
+    test_X(:,t) = test_x(t:N_test-T+t);
+end
+
+for 
+prec_recall_list(pred, test_y, label);

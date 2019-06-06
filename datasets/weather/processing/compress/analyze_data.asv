@@ -1,0 +1,70 @@
+function analyze_data(pws)
+
+field_set{1} = 'tempm';
+field_set{2} = 'tempi';
+field_set{3} = 'dewptm';
+field_set{4} = 'dewpti';
+field_set{5} = 'hum';
+field_set{6} = 'wspdm';
+field_set{7} = 'wspdi';
+field_set{8} = 'tempm';
+field_set{9} = 'tempm';
+field_set{10} = 'tempm';
+field_set{11} = 'tempm';
+field_set{12} = 'tempm';
+field_set{13} = 'tempm';
+field_set{14} = 'tempm';
+field_set{15} = 'tempm';
+field_set{16} = 'tempm';
+field_set{17} = 'tempm';
+field_set{18} = 'tempm';
+field_set{19} = 'tempm';
+field_set{20} = 'tempm';
+field_set{21} = 'tempm';
+field_set{22} = 'tempm';
+field_set{23} = 'tempm';
+
+n_observ_all = [];
+gap_all = [];
+
+count = zeros(1,23);
+
+for m = 1:12
+    if m == 1
+        fname = ['PWS_', pws, '_201601.mat_comp.mat'];
+    elseif m < 10
+        fname = ['PWS_', pws, '_20150',num2str(m),'.mat_comp.mat'];
+    else
+        fname = ['PWS_', pws, '_2015',num2str(m),'.mat_comp.mat'];
+    end
+    
+    load(fname,'fea');
+    
+    % n_of_observation_per_day
+    t = fea(24,:);
+    
+    for i = 1:max(t)
+        n_observ(i) = sum( t==i );
+    end
+    
+    n_observ_all = [n_observ_all, n_observ];
+    
+    cc = 0;
+    for i = 1:max(t)
+        idx = find( t==i );
+        
+        for j = 2:length(idx)
+            cc = cc + 1;
+            gap(cc) = fea(25,idx(j)) - fea(25,idx(j-1));
+        end
+    end
+    gap_all = [gap_all, gap];
+    
+    % check field
+    for i = 1:23
+        idx = find( fea(i,:) < -900 );
+        count(i) = count(i) + length(idx);
+    end
+end
+
+keyboard
