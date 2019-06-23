@@ -1,0 +1,11 @@
+/code folder contains the Matlab code for Chapter 3.
+
+To generate experimental results on the weather data, run run_exp_weather.m. It generates results on both the individual sensor failures (Table 3.1) and compound sensor failures (Table 3.2). 
+
+To generate experimental results on the UUV data, run run_exp_uuv.m. It generates results on both the individual sensor failures (Table 3.3) and compound sensor failures (Table 3.4).
+
+Results are save in /results folder.
+
+
+--------
+For any questions, please contact Yuan Shi at yuanshi@usc.edu. Thanks!

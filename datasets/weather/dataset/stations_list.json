@@ -1,0 +1,114 @@
+[
+  {
+    "name": "AUSTIN1",
+    "stations": [
+      "KTXAUSTI103.json",
+      "KTXAUSTI117.json",
+      "KTXAUSTI129.json"
+    ]
+  },
+  {
+    "name": "AUSTIN2",
+    "stations": [
+      "KTXAUSTI142.json",
+      "KTXAUSTI148.json",
+      "KTXAUSTI183.json"
+    ]
+  },
+  {
+    "name": "AUSTIN3",
+    "stations": [
+      "KTXAUSTI151.json",
+      "KTXAUSTI152.json",
+      "KTXAUSTI171.json"
+    ]
+  },
+  {
+    "name": "AUSTIN4",
+    "stations": [
+      "KTXAUSTI123.json",
+      "KTXAUSTI135.json",
+      "KTXAUSTI181.json"
+    ]
+  },
+  {
+    "name": "AUSTIN5",
+    "stations": [
+      "KTXAUSTI119.json",
+      "KTXAUSTI137.json",
+      "KTXAUSTI157.json"
+    ]
+  },
+  {
+    "name": "CHICAGO1",
+    "stations": [
+      "KILCHICA112.json",
+      "KILCHICA114.json",
+      "KILCHICA132.json"
+    ]
+  },
+  {
+    "name": "CHICAGO2",
+    "stations": [
+      "KILCHICA103.json",
+      "KILCHICA107.json",
+      "KILCHICA119.json"
+    ]
+  },
+  {
+    "name": "LOSANGELES1",
+    "stations": [
+      "KCAGLEND13.json",
+      "KCAGLEND63.json",
+      "KCAGLEND67.json"
+    ]
+  },
+  {
+    "name": "LOSANGELES2",
+    "stations": [
+      "KCALOSAN108.json",
+      "KCALOSAN118.json",
+      "KCALOSAN334.json"
+    ]
+  },
+  {
+    "name": "LOSANGELES3",
+    "stations": [
+      "KCALOSAN105.json",
+      "KCAVENIC3.json",
+      "KCAVENIC4.json"
+    ]
+  },
+  {
+    "name": "SANFRANCISCO1",
+    "stations": [
+      "KCASANFR102.json",
+      "KCASANFR131.json",
+      "KCASANFR435.json"
+    ]
+  },
+  {
+    "name": "SANFRANCISCO2",
+    "stations": [
+      "KCASANFR135.json",
+      "KCASANFR149.json",
+      "KCASANFR431.json"
+    ]
+  },
+  {
+    "name": "SANFRANCISCO3",
+    "stations": [
+      "KCASANFR110.json",
+      "KCASANFR114.json",
+      "KCASANFR138.json"
+    ]
+  },
+  {
+    "name": "SANFRANCISCO4",
+    "stations": [
+      "KCASANFR107.json",
+      "KCASANFR148.json",
+      "KCASANFR97.json"
+    ]
+  }
+]
