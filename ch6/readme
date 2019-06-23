@@ -1,0 +1,12 @@
+/source folder contains the Matlab code for Chapter 6.
+
+To generate experimental results on the Austin weather stations (Table 6.1 and 6.2), run /source/run_exp_weather.m. It uses the weather dataset (/datasets/weather/dataset).
+
+To generate experimental results on the appliance energy dataset (Table 6.3 and 6.4), run /source/run_exp_energy.m. It uses the appliance energy dataset (/energy_data).
+
+Results are written into /results folder.
+
+The Matlab code used in Chapter 6.5 is under /code/BRASS folder. The data and additional code can be accessed at https://github.com/CRA-PRINCESS/princess (private repository). For more information about our evaluation in BRASS project, please contact Yuan.
+
+--------
+For any questions, please contact Yuan Shi at yuanshi@usc.edu. Thanks!

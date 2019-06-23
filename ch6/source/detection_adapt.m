@@ -1,5 +1,6 @@
 function [fail_idx, adapt_val] = detection_adapt(const, data)
 
+
 N_const = length(const);
 N_sensor = size(data,1);
 

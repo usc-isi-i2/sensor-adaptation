@@ -1,4 +1,4 @@
-load('weather_data.mat');
+load('Austin_data.mat');
 
 %% data is #sensor x #sample
 
@@ -44,6 +44,8 @@ for i = 1:size(test_data,2)
     end
 end
 
+[] = run_baselines(train_data, noisy_test_data, test_data);
+
 for j = 1:N_sensor
     [precision(j), recall(j)] = prec_recall(failed_truth(j,:), detect_label(j,:));
     
@@ -52,7 +54,3 @@ for j = 1:N_sensor
     
     fprintf('Sensor %g:\t non-adapt error %.2f\t adapt error %.2f\t precision %.2f\t recall %.2f\n', j, err_noise(j), err_adapt(j), precision(j)*100, recall(j)*100);
 end
-
-
-
-

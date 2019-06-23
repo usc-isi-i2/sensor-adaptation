@@ -1,13 +1,13 @@
-/code folder contains the Matlab code for Chapter 5. 
+/source folder contains the Matlab code for Chapter 5. 
 
-To generate experimental results on the object recognition task (Table 5.1), run /code/run_exp_object.m. 
+To generate experimental results on the object recognition task (Table 5.1), run /source/run_exp_object.m. It uses the object recognition dataset (/object_dataset).
 
-To generate experimental results on the sentiment analysis task (Table 5.2), run /code/run_exp_sentiment.m. 
+To generate experimental results on the sentiment analysis task (Table 5.2), run /source/run_exp_sentiment.m. It uses the sentiment analysis dataset (/sentiment_dataset).
 
-To generate experimental results on the weather classification task (Table 5.3), run /code/run_exp_weather.m
+To generate experimental results on the weather classification task (Table 5.3), run /source/run_exp_weather.m. It uses the weather classification dataset (/weather_dataset).
 
 
-Results are saved in /results folder.
+Results are written into /results folder.
 
 
 If you need more information about our evaluation in BRASS project, please contact Yuan.
