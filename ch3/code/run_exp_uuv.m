@@ -1,5 +1,6 @@
+clear;
 % loading processed data
-load('../datasets/UUV/processed_UUV/UUV_data.mat');
+load('../../datasets/UUV/processed_UUV/UUV_data.mat');
 
 % reconstrucing surge, heave and sway
 sensor_set = [8,9,10];

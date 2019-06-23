@@ -1,0 +1,105 @@
+function learn_SCL(source, target, low_dim)
+
+addpath('libknn');
+
+sta = tic;
+
+T = 10;
+
+fname = [source, '_', target, '_W.mat'];
+load(f
+
+L_cell = cell(1,T);
+
+for tt = 1:T
+    
+    if strcmp(source, 'E') == 1
+        source_file = 'elec';
+        source_idx_file = 'elec_400_idx';
+    elseif strcmp(source, 'B') == 1
+        source_file = 'books';
+        source_idx_file = 'books_400_idx';
+    elseif strcmp(source, 'D') == 1
+        source_file = 'dvd';
+        source_idx_file = 'dvd_400_idx';
+    elseif strcmp(source, 'K') == 1
+        source_file = 'kitchen';
+        source_idx_file = 'kitchen_400_idx';
+    else
+        disp('no file');
+    end
+    
+    if strcmp(target, 'E') == 1
+        target_file = 'elec';
+        target_idx_file = 'elec_400_idx';
+    elseif strcmp(target, 'B') == 1
+        target_file = 'books';
+        target_idx_file = 'books_400_idx';        
+    elseif strcmp(target, 'D') == 1
+        target_file = 'dvd';
+        target_idx_file = 'dvd_400_idx';        
+    elseif strcmp(target, 'K') == 1
+        target_file = 'kitchen';
+        target_idx_file = 'kitchen_400_idx';        
+    else
+        disp('no file');
+    end
+    
+    fname = ['NLP_dataset/', source_file, '_400.mat'];
+    load(fname);
+    
+    fname = ['NLP_dataset/', source_idx_file, '.mat'];
+    load(fname);
+    
+    new_fts = zscore(fts);
+    
+    lX = new_fts(train_idx(:,tt),:)';
+    lY = labels(train_idx(:,tt),:)';
+    
+    fname = ['NLP_dataset/', target_file, '_400.mat'];
+    load(fname);
+    
+    fname = ['NLP_dataset/', target_idx_file, '.mat'];
+    load(fname);
+    
+    new_fts = zscore(fts);
+    
+    % target
+    vaX = new_fts(train_idx(:,tt),:)';
+    vaY = labels(train_idx(:,tt),:)';
+    
+    teX = new_fts(test_idx(:,tt),:)';
+    teY = labels(test_idx(:,tt),:)';
+    
+    mix_data = [lX,vaX,teX];
+    
+    % scale data
+    dist = L2_distance(mix_data, mix_data);
+    
+    mdist = median( sqrt( dist(:) ) );
+    
+    lX = lX' / mdist;
+    vaX = vaX' / mdist;
+    teX = teX' / mdist;
+    
+    lX = factor*lX;
+    vaX = factor*vaX;
+    teX = factor*teX;
+    
+    %convert to n*d form
+    lY = lY'; vaY = vaY'; teY = teY';
+    
+    if low_dim == 0
+        low_dim = 800;
+    end
+    
+    % target PCA
+    P_target = myPCA([vaX; teX], low_dim);
+    
+    L = P_target';      % D*low_dim
+    
+    
+end
+
+dur = toc(sta);
+

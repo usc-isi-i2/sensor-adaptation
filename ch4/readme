@@ -1,15 +1,15 @@
 /code folder contains the Matlab code for Chapter 4.
 
-To generate experimental results on the weather data, run run_exp_weather.m. It generates results on both the individual sensor changes (Table 4.1) and compound sensor changes (Table 4.2). 
+To generate experimental results on the weather data, run /code/run_exp_weather.m. It generates results on both the individual sensor changes (Table 4.1) and compound sensor changes (Table 4.2). 
 
-To generate experimental results on the UUV data, run run_exp_uuv.m. It generates results on both the individual sensor changes (Table 4.3) and compound sensor changes (Table 4.4).
+To generate experimental results on the UUV data, run /code/run_exp_uuv.m. It generates results on both the individual sensor changes (Table 4.3) and compound sensor changes (Table 4.4).
 
-To generate experimental results on Chapter 4.5, run run_exp_many_sensor.m.
+To generate experimental results on Chapter 4.5, run /code/run_exp_many_sensor.m.
 
-To generate experimental results on Chapter 4.6, run run_exp_spatial_temporal.m.
+To generate experimental results on Chapter 4.6, run /code/run_exp_spatial_temporal.m.
 
 
-Results are save in /results folder.
+Results are saved in /results folder.
 
 
 The data and code for Chapter 4.3 can be accessed at https://github.com/CRA-PRINCESS/princess (private repository). If you need more information on the evaluation in BRASS project, please contact Yuan.

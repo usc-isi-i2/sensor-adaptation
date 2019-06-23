@@ -1,0 +1,16 @@
+/code folder contains the Matlab code for Chapter 5. 
+
+To generate experimental results on the object recognition task (Table 5.1), run /code/run_exp_object.m. 
+
+To generate experimental results on the sentiment analysis task (Table 5.2), run /code/run_exp_sentiment.m. 
+
+To generate experimental results on the weather classification task (Table 5.3), run /code/run_exp_weather.m
+
+
+Results are saved in /results folder.
+
+
+If you need more information about our evaluation in BRASS project, please contact Yuan.
+
+--------
+For any questions, please contact Yuan Shi at yuanshi@usc.edu. Thanks!

@@ -14,7 +14,7 @@ for idx_rep_sensor = 1:N_rep_sensor
     
     
     dim = 2;
-    lambda = 1e2;
+    lambda = 1e-2;
     
     [weight, min_val, max_val] = train_ridge_reg(train_X, train_Y, dim, lambda);
     

@@ -1,5 +1,6 @@
+clear;
 % loading processed data
-load('../datasets/weather/dataset/processed_weather/weather_data.mat');
+load('../../datasets/weather/dataset/processed_weather/weather_data.mat');
 
 N_pair = 100;
 for idx_pair = 1:N_pair
