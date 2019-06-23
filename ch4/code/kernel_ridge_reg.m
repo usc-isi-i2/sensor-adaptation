@@ -1,5 +1,6 @@
 function pred = kernel_ridge_reg(X, Y, X_te, d, lambda)
 
+
 % K = (X'*X+1).^d;
 % K_te = (X'*X_te+1).^d;
 % N = size(Y,1);
@@ -12,26 +13,21 @@ if d == 1
     new_X_te = X_te;   
 end
 
-for r = 1:D
-    term_set{r} = num2str(r);
-end
 cc = D;
 
 if d >= 2
     new_X = X;
     
     for i = 1:D
-        for j = 1:D
+        for j = i:D
             new_X = [new_X; X(i,:).*X(j,:)];
-            cc = cc + 1;
-            term_set{cc} = [num2str(i),'_',num2str(j)];
         end
     end
     
     new_X_te = X_te;
     
     for i = 1:D
-        for j = 1:D
+        for j = i:D
             new_X_te = [new_X_te; X_te(i,:).*X_te(j,:)];
         end
     end
@@ -40,19 +36,16 @@ end
 if d == 3
     
     for i = 1:D
-        for j = 1:D
-            for p = 1:D
+        for j = i:D
+            for p = j:D
                 new_X = [new_X; X(i,:).*X(j,:).*X(p,:)];
-                
-                cc = cc + 1;
-                term_set{cc} = [num2str(i),'_',num2str(j),'_',num2str(p)];
             end
         end
     end
     
     for i = 1:D
-        for j = 1:D
-            for p = 1:D
+        for j = i:D
+            for p = j:D
                 new_X_te = [new_X_te; X_te(i,:).*X_te(j,:).*X_te(p,:)];
             end
         end
